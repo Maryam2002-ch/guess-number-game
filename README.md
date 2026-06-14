@@ -41,11 +41,6 @@ Your guess: 62
 
 Would you like to play again? (yes/no)
 
-## 📁 Project Structure
-guess-number-game/
-├── guess_number.py    # Main game logic
-└── README.md          # Project documentation
-
 ## 🛠️ Code Highlights
 Uses random.randint() for number generation
 

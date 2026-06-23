@@ -50,8 +50,5 @@ Modular functions for better readability
 
 Input validation for numbers between 1-100
 
-## 📄 License
-Feel free to use, modify, and share this project for learning purposes.
-
 ---
 ⭐ If you enjoyed this game or found it helpful, give it a star!
